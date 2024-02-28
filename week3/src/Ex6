@@ -1,0 +1,5 @@
+Q1. To which package does String class belong?
+A1. The java.lang package
+
+Q2. Why do we not import this package in the program before using String class.
+A2. Because everything in java.lang is automatically imported
